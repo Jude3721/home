@@ -1,18 +1,14 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import Header from './components/header/header.vue'
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
+  <Header />
 
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="container">
+    
+  </div>
+  
 </template>
 
 <style scoped>

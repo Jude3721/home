@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "sass-embedded": "^1.80.3"
+  },
+  "dependencies": {
+    "vue-fullpage.js": "^0.2.20"
   }
 }

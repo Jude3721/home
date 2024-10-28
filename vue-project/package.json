@@ -12,7 +12,8 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
-    "vue": "^3.5.12"
+    "vue": "^3.5.12",
+    "vue-fullpage.js": "^0.2.20"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
