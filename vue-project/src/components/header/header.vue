@@ -11,6 +11,9 @@ defineProps<{
 </script>
 
 <style scoped lang="scss">
-
+.header{
+  position:fixed;
+  left:0; top:0;
+}
 
 </style>

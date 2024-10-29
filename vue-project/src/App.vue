@@ -1,29 +1,32 @@
 <template>
-  <Header/>
+  <Header></Header>
 
-  <div id="main">
-    <div class="" data-anchor="section1">
-
+    <div class="page" data-anchor="section1">
+      <Section1 class="hp-100p"></Section1>
     </div>
-  </div>
+    <div class="page" data-anchor="section2">
+      <Section1 class="hp-100p bg-ffffff"></Section1>
+    </div>
   
 </template>
 
-<script>
+<script setup>
 import Header from './components/header/header.vue'
+import Section1 from './components/section/section1.vue'
 
-export default{
-  name : "App",
-  components : {
-    Header,
-  },
-  mouted(){
-    new pageableMin("#main",{
-      childSelector:"[data-anchor]",
-    });
-  },
-}
+console.log('111');
+
+const pageable = () => {
+  console.log('222');
+
+};
+
+pageable();
 </script>
 
 <style scoped>
+.page{
+  width:100%;
+  height:100vh
+}
 </style>

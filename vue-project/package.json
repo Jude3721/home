@@ -12,6 +12,8 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
+    "fullpage.js": "^4.0.30",
+    "pageable": "^0.6.8",
     "vue": "^3.5.12",
     "vue-fullpage.js": "^0.2.20"
   },
