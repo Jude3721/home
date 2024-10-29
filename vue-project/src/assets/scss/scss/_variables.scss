@@ -137,15 +137,6 @@ $color-30aafb: #30aafb !default;
 $color-d689f6: #d689f6 !default;
 $color-ffb68d: #ffb68d !default;
 
-// POS
-$color-afafaf: #afafaf !default;
-$color-435373: #435373 !default;
-$color-73809d: #73809d !default;
-$color-dcf7ff: #dcf7ff !default;
-$color-e0e7f1: #e0e7f1 !default;
-$color-5d5d5d: #5d5d5d !default;
-$color-ffe281: #ffe281 !default;
-$color-1d3557: #1d3557 !default;
 
 $colors: () !default;
 $colors: map-merge(
@@ -277,16 +268,6 @@ $colors: map-merge(
         "30aafb":     $color-30aafb,
         "d689f6":     $color-d689f6,
         "ffb68d":     $color-ffb68d,
-
-        // POS
-        "afafaf":     $color-afafaf,
-        "435373":     $color-435373,
-        "73809d":     $color-73809d,
-        "dcf7ff":     $color-dcf7ff,
-        "e0e7f1":     $color-e0e7f1,
-        "5d5d5d":     $color-5d5d5d,
-        "ffe281":     $color-ffe281,
-        "1d3557":     $color-1d3557
     ),
     $colors
 );

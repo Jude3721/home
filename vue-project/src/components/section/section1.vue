@@ -1,13 +1,10 @@
 <template>
-  <div class="header">
-    <div>1234114</div>
+  <div class="section1">
+    <div></div>
   </div>
 </template>
 
 <script setup lang="ts">
-defineProps<{
-  msg: string
-}>()
 </script>
 
 <style scoped lang="scss">
