@@ -5,7 +5,6 @@
       <Section1 class="hp-100p"></Section1>
     </div>
     <div class="page" data-anchor="section2">
-      <Section1 class="hp-100p bg-ffffff"></Section1>
     </div>
   
 </template>
