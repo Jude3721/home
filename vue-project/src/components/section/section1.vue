@@ -11,10 +11,6 @@
       <video autoplay muted loop>
         <source src="../../assets/images/video/section1_vis.mp4">
       </video>
-
-      <div class="arrow">
-        <img src="" alt="아래로 화살표"/>
-      </div>
     </div>
   </div>
 </template>
@@ -44,6 +40,7 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
+.section{height:100vh;}
 .visual{
   position:relative;
   width:100%; height:100%;

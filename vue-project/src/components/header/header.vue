@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div>1234114</div>
+    <div></div>
   </div>
 </template>
 
