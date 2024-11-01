@@ -12,15 +12,15 @@
       <h3 class="fs-24 fw-700 fc-grey600 pt-36 pb-20">My Career</h3>
       <div class="text">
         <div class="dp-f pb-14">
-          <h4 class="wd-200 fs-20 fw-600 fc-3e4354">스마트스코어</h4>
-          <p class="fs-20 fw-400 fc-10182b">
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">스마트스코어</h4>
+          <p class="size-80 fs-20 fw-400 fc-10182b">
             자사 내 웹 앱 스코어 콘텐츠 퍼블리싱 유지 보수 및 신규 페이지 작업<br/>
             ERP 골프장 홈페이지 PC, MOB 페이지 작업
           </p>
         </div>
         <div class="dp-f pb-14">
-          <h4 class="wd-200 fs-20 fw-600 fc-3e4354">CNDF</h4>
-          <p class="fs-20 fw-400 fc-10182b">
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">CNDF</h4>
+          <p class="size-80 fs-20 fw-400 fc-10182b">
             광동상회 모바일 웹 페이지 작업<br/>
             제주삼다수 모바일 웹 페이지 작업<br/>
             파타고니아KR 반응형 웹 페이지 작업<br/>
@@ -28,21 +28,21 @@
           </p>
         </div>
         <div class="dp-f pb-14">
-          <h4 class="wd-200 fs-20 fw-600 fc-3e4354">바잉스퀘어(계약직)</h4>
-          <p class="fs-20 fw-400 fc-10182b">
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">바잉스퀘어(계약직)</h4>
+          <p class="size-80 fs-20 fw-400 fc-10182b">
             자사 신규 어드민 페이지 작업
           </p>
         </div>
         <div class="dp-f pb-14">
-          <h4 class="wd-200 fs-20 fw-600 fc-3e4354">머지플러스</h4>
-          <p class="fs-20 fw-400 fc-10182b">
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">머지플러스</h4>
+          <p class="size-80 fs-20 fw-400 fc-10182b">
             자사 이벤트 웹 페이지 작업<br/>
             자사 반응형 홈페이지 작업
           </p>
         </div>
         <div class="dp-f">
-          <h4 class="wd-200 fs-20 fw-600 fc-3e4354">(주)지식과미래</h4>
-          <p class="fs-20 fw-400 fc-10182b">
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">(주)지식과미래</h4>
+          <p class="size-80 fs-20 fw-400 fc-10182b">
             자사 홈페이지 리뉴얼 작업<br/>
             자사 이벤트 페이지 작업
           </p>
