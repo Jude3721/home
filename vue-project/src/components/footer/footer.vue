@@ -1,13 +1,13 @@
 <template>
   <div class="footer">
-    <div></div>
+    <div class="content">
+      <p>봐주셔서 감사합니다.</p>
+      <p>THE END</p>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-defineProps<{
-  msg: string
-}>()
 </script>
 
 <style scoped lang="scss">
