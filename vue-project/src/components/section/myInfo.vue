@@ -28,7 +28,7 @@
           </p>
         </div>
         <div class="dp-f pb-14">
-          <h4 class="size-20 fs-20 fw-600 fc-3e4354">바잉스퀘어(계약직)</h4>
+          <h4 class="size-20 fs-20 fw-600 fc-3e4354">바잉스퀘어<span class="fs-14">(계약직)</span></h4>
           <p class="size-80 fs-20 fw-400 fc-10182b">
             자사 신규 어드민 페이지 작업
           </p>
